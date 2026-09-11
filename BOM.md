@@ -3,6 +3,7 @@ Bill of Materials
 Component|Use|Price
 
 ASRock X600TM-ITX | Motherboard | $150 
+
 AMD Ryzen 7 8700G | CPU | $300
 DDR5 SODIMM Kit (16Gb) | Memory | $100 (Why 16gb and not less, because its a VR and for smooth Processing and non lagging)
 M.2 NVMe SSD 1Tb | Storage | $80
