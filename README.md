@@ -27,7 +27,7 @@ A light weight VR headset with a seperate Compute housing
 AMD Ryzen 7 8700 iGPU
 
 
-SODIMM DDR5
+SODIMM DDR5 Ram
 
 
 M.2 SSD
