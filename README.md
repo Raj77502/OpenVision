@@ -19,3 +19,41 @@ A light weight VR headset with a seperate Compute housing
 
 
 <img width="887" height="770" alt="Screenshot 2026-09-11 161337" src="https://github.com/user-attachments/assets/ce953a61-cf79-4e09-883a-fe0d23011b71" />
+
+
+
+## Supporting
+
+AMD Ryzen 7 8700 iGPU
+
+
+SODIMM DDR5
+
+
+M.2 SSD
+
+
+Battery Powered
+
+
+## Features
+
+Light Weight VR Headset(Only houses the displays and cameras and ESP32 and 2x Raspi CM5 board).
+
+
+ComputePillow a neck pillow remade to give comfort along with compute(Houses the Motherboard, Cooler and Battery).
+
+
+HeadRest a solid headrest for weight balance and sturdy support.
+
+
+Custom Cooler CNCed for space constraints and effective cooling.
+
+
+Using USB4 too transfer video and camera data.
+
+## Where it Started ?
+
+I wanted a VR headset I saw about latest Flagship headsets and then i say people complaining about it ,
+
+So i decided to build one myself and make it better and more powerfull.
