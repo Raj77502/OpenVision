@@ -1,24 +1,28 @@
 # OpenVision
+
+
+<img width="2172" height="724" alt="OpenVision" src="https://github.com/user-attachments/assets/20d57a21-9fba-437e-ac94-9c401315968d" />
+
+
+
 A light weight VR headset with a seperate Compute housing 
 
 
 
-<img width="1090" height="812" alt="Screenshot 2026-09-11 161527" src="https://github.com/user-attachments/assets/7feb6ce6-a829-487f-a9a7-ec52000eeb12" />
+<img width="579" height="431" alt="Screenshot_2026-09-11_161527-removebg-preview" src="https://github.com/user-attachments/assets/2e9f5a56-7660-4797-8f49-093333d81d9a" />
 
 
-<img width="1307" height="762" alt="Screenshot 2026-09-11 161232" src="https://github.com/user-attachments/assets/d39c88ce-e4aa-4019-9259-df18f5aa5f0e" />
+<img width="581" height="430" alt="Screenshot_2026-09-11_161220-removebg-preview" src="https://github.com/user-attachments/assets/794802ee-f541-4ed7-9349-daaa0c6aeec0" />
 
 
-<img width="1038" height="768" alt="Screenshot 2026-09-11 161220" src="https://github.com/user-attachments/assets/93db43dd-12f2-4f7c-ac14-aa793db604e4" />
+<img width="557" height="448" alt="Screenshot_2026-09-11_161421-removebg-preview" src="https://github.com/user-attachments/assets/9846e6df-3275-4431-b4a0-86da5fc5da49" />
 
 
-<img width="1058" height="771" alt="Screenshot 2026-09-11 161139" src="https://github.com/user-attachments/assets/35336454-92f9-450a-ac7c-8e15a4ed5b7e" />
+<img width="585" height="426" alt="Screenshot_2026-09-11_161139-removebg-preview" src="https://github.com/user-attachments/assets/c75544d1-bf54-4096-9eee-f6f1956ddfa8" />
 
 
-<img width="793" height="740" alt="Screenshot 2026-09-11 161436" src="https://github.com/user-attachments/assets/aa4dd7b0-785a-41f8-adb4-a8a92bcf09cb" />
+<img width="517" height="483" alt="Screenshot_2026-09-11_161436-removebg-preview" src="https://github.com/user-attachments/assets/d681cfbc-a226-49cc-9d30-e737f271d72c" />
 
-
-<img width="887" height="770" alt="Screenshot 2026-09-11 161337" src="https://github.com/user-attachments/assets/ce953a61-cf79-4e09-883a-fe0d23011b71" />
 
 
 
